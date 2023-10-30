@@ -1,0 +1,31 @@
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+   border: 5px solid #113946;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  #title{
+    background-color:#113946;
+    color:#FFF2D8;
+    text-align:center;
+    
+  }
+  #tribute-info{
+    padding-top:20px;
+    padding-bottom:20px;
+    background-color:#EAD7BB;
+  
+  }
+  li{
+    
+    list-style:none;
+  }
+  strong{
+    color:#113946;
+  }
+  #tribute-link{
+    text-decoration:none;
+    color:#113946;
+  }
